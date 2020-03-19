@@ -3,8 +3,6 @@ body{
     color: #333;
     text-align: center;
     font-family: "courier";
-
-
     color: #333;
     text-align: center;
     font-family: "Arial";
@@ -28,7 +26,7 @@ body{
 #cabecera {
     background: #33A;
     box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.5);
-    color: white;
+    color: red;
     font-weight: bold;
     margin 0;
     padding: 0.5em;
